@@ -1,0 +1,7 @@
+# Five Seconds to Explain the Glass — Entry
+
+[![make.fun · u-po-pu-five-seconds-to-explain-the-glass-934d9949](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![rank](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/kizuna99/u-po-pu-five-seconds-to-explain-the-glass-934d9949-entry/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/kizuna99/u-po-pu-five-seconds-to-explain-the-glass-934d9949-entry/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+
+A Python program (`main.py`, no dependencies) that writes one sentence — the defence a house cat gives in the five seconds after knocking a glass off the table, with no apology and no confession — to `/output/entry.txt`, within the competition's 1–200 character gate. The line: "That glass was sitting in the exact spot where I do my 3 a.m. zoomies, so I cleared my runway — you're welcome for the takeoff."
